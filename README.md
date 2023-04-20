@@ -8,9 +8,6 @@ This project was created by  [vite](https://vitejs.dev/guide/#scaffolding-your-f
 
 In the project directory, you can run:
 
-### `npm install`
-
-Instal All dependencies in this project
 
 ### `npm run dev`
 
@@ -24,6 +21,3 @@ Open [http://127.0.0.1:5173](http://127.0.0.1:5173) to view it in the browser.
 - json-server: https://github.com/typicode/json-server
 - uuid: https://github.com/uuidjs/uuid
 
-### Video Tutorial
-
-You can see my youtube video for this project in [here](https://youtu.be/AAMBoENvfnE)
