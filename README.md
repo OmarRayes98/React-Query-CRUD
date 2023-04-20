@@ -1,5 +1,8 @@
-This project was bootstrapped with [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 
+#Description :
+- You can create update delete post
+
+This project was created by  [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 
 ## Available Scripts
 
