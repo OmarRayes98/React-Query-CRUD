@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "674f2b29-69d9-4a27-a4a3-7df65633fd2a",
+      "title": "this is first title",
+      "body": "this is first body"
+    },
+    {
+      "id": "1b30ec7f-93df-427b-8cdf-6fe6cd8e6bee",
+      "title": "this is second title",
+      "body": "this is second title"
+    }
+  ]
+}
